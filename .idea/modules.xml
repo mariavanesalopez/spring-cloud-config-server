@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/config-server-eureka.iml" filepath="$PROJECT_DIR$/.idea/config-server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServer/configServer.iml" filepath="$PROJECT_DIR$/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuenta/cuenta.iml" filepath="$PROJECT_DIR$/cuenta/cuenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka_server.iml" />
+    </modules>
+  </component>
+</project>
